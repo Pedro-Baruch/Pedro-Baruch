@@ -21,6 +21,10 @@
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> 
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div><hr>
+
+### Redes sociais
+  - <a href="https://twitter.com/Kurorh">Twitter</a>
+  - <a href="https://www.twitch.tv/kurorh">Twitch</a>
   
 ### Hobies e gostos
 - Gosto de jogar no tempo livre, quase sempre gasto meu tempo jogando Valorant
