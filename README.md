@@ -23,7 +23,7 @@
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div><hr>
 
-### Hobies e gostos
+### Hobbies e gostos
 - Gosto de jogar no tempo livre, quase sempre gasto meu tempo jogando Valorant
 - Assisto alguns animes
 - Café é muito bom
