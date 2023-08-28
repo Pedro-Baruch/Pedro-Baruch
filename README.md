@@ -12,7 +12,6 @@
 - Tenho objetivo de trabalhar com desenvolvimento de jogos, atualmente estou começando meus estudos com game maker
 
 ### Meu conhecimentos
-  
 ## Linguagens e frameworks que estou estudando
 <div class="estudando">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
