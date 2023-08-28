@@ -31,5 +31,5 @@
   
 ### Redes sociais
 <a href="https://twitter.com/Kurorh"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
-  - <a href="https://www.twitch.tv/kurorh"><img align="center" height="30" width="40" src="https://icons8.com/icon/18104/twitch"></a>
+  - <a href="https://www.twitch.tv/kurorh"><img align="center" height="30" width="40" src="https://drive.google.com/file/d/1BheE_3c_Ey_tGFT65BBSwdP0wqEHR-v1/view?usp=sharing"></a>
   - <a href="https://www.instagram.com/pedro_baruch">Instagram</a>
