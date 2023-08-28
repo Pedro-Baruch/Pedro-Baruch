@@ -29,6 +29,6 @@
 </div>
   
 ### Redes sociais
-  - <a href="https://twitter.com/Kurorh">Twitter</a>
+  - <a href="https://twitter.com/Kurorh">Twitter<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
   - <a href="https://www.twitch.tv/kurorh">Twitch</a>
   - <a href="https://www.instagram.com/pedro_baruch">Instagram</a>
