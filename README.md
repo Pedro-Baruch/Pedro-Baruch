@@ -10,6 +10,7 @@
 - Estudo ADS no IFPI
 - Tenho 21 anos
 - Tenho objetivo de trabalhar com desenvolvimento de jogos, atualmente estou começando meus estudos com game maker
+- Faço lives na twitch algumas vezes por semana
 
 ### Meu conhecimentos
 ## Linguagens e frameworks que estou estudando
@@ -30,5 +31,5 @@
   
 ### Redes sociais
 <a href="https://twitter.com/Kurorh"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
-  - <a href="https://www.twitch.tv/kurorh">Twitch</a>
+  - <a href="https://www.twitch.tv/kurorh"><img align="center" height="30" width="40" src="https://icons8.com/icon/18104/twitch"></a>
   - <a href="https://www.instagram.com/pedro_baruch">Instagram</a>
