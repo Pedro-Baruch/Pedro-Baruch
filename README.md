@@ -10,7 +10,6 @@
 - Estudo ADS no IFPI
 - Tenho 21 anos
 - Tenho objetivo de trabalhar com desenvolvimento de jogos, atualmente estou começando meus estudos com game maker
-- Faço lives na twitch algumas vezes por semana
 
 ## Meu conhecimentos
 ### Linguagens, frameworks e banco de dados que estou estudando
