@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://github.com/Pedro-Baruch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-baruch&theme=react&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-baruch&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-baruch&theme=react&show_icons=true&hide_border=true&layout=compact&count_private=true"/>
 </div>
 
 ## Sobre min
